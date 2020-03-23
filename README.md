@@ -1,8 +1,8 @@
 # App Be The Hero
 Conectar pessoas que tem vontade de ajudar de forma monetária a ONG's
 
-[![NODE Version][node-image]]
-[![NPM Version][npm-image]]
+![NODE Version][node-image]
+![NPM Version][npm-image]
 
 Conectar pessoas que tem vontade de ajudar de forma monetária a ONG's. As associações se conectam e cadastram os casos e solicitam ajuda monetária para resolver o caso.
 
